@@ -1,5 +1,9 @@
 ---
+// Suppress TypeScript errors for side-effect font imports when declaration files are missing
+// Use @ts-ignore because @ts-expect-error fails if TypeScript doesn't emit an error in some configs
+// @ts-ignore: module missing type declarations
 import "@fontsource-variable/jetbrains-mono";
+// @ts-ignore: module missing type declarations
 import "@fontsource-variable/jetbrains-mono/wght-italic.css";
 
 interface Props {
