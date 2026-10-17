@@ -1,5 +1,5 @@
 ---
-title: Expressive Code Example 翻译
+title: Expressive Code Example
 published: 2026-07-13
 description: 在 Markdown 中使用 Expressive Code 的代码块示例。
 tags: [Markdown, Blogging, Demo]
